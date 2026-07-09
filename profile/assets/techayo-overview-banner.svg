@@ -1,4 +1,4 @@
-<svg width="1280" height="420" viewBox="0 0 1280 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="TechAyo commercial website, client portal, and operations workspace">
+<svg width="1280" height="420" viewBox="0 0 1280 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="TechAyo commercial website, client portal, OPS workspace">
   <defs>
     <linearGradient id="bg" x1="640" y1="0" x2="640" y2="420" gradientUnits="userSpaceOnUse">
       <stop stop-color="#F7FAF7"/>
@@ -33,7 +33,7 @@
   </g>
 
   <text x="176" y="218" fill="#0B3B35" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="700">Platform ownership for delivery work</text>
-  <text x="176" y="258" fill="#496779" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="400">Commercial website, client portal, publishing, CRM, SEO, and operations control.</text>
+  <text x="176" y="258" fill="#496779" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="400">Commercial website, client portal, OPS workspace</text>
 
   <g transform="translate(176 294)">
     <rect width="134" height="34" rx="17" fill="#FFFFFF" stroke="#DDE6E0"/>
