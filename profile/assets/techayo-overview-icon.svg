@@ -1,0 +1,19 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="TechAyo icon">
+  <defs>
+    <linearGradient id="shell" x1="96" y1="52" x2="416" y2="460" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#103C36"/>
+      <stop offset="1" stop-color="#071F1C"/>
+    </linearGradient>
+    <linearGradient id="plate" x1="256" y1="88" x2="256" y2="424" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F8FBF8"/>
+      <stop offset="1" stop-color="#E8F0EA"/>
+    </linearGradient>
+  </defs>
+  <rect x="40" y="40" width="432" height="432" rx="112" fill="url(#shell)"/>
+  <rect x="76" y="76" width="360" height="360" rx="88" fill="url(#plate)" opacity="0.08"/>
+  <circle cx="214" cy="202" r="72" fill="#D9FF43"/>
+  <circle cx="292" cy="202" r="72" fill="#0B3B35"/>
+  <path d="M154 322H358" stroke="#D9FF43" stroke-width="30" stroke-linecap="round"/>
+  <path d="M198 374H314" stroke="#F3FFD0" stroke-width="18" stroke-linecap="round" opacity="0.9"/>
+</svg>
+

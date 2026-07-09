@@ -1,0 +1,58 @@
+<svg width="1280" height="420" viewBox="0 0 1280 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="TechAyo commercial website, client portal, and operations workspace">
+  <defs>
+    <linearGradient id="bg" x1="640" y1="0" x2="640" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F7FAF7"/>
+      <stop offset="1" stop-color="#E7EEE9"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="160" y1="74" x2="1096" y2="346" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF" stop-opacity="0.94"/>
+      <stop offset="1" stop-color="#F4F8F5" stop-opacity="0.82"/>
+    </linearGradient>
+    <filter id="shadow" x="92" y="36" width="1096" height="360" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feOffset dy="16"/>
+      <feGaussianBlur stdDeviation="22"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 0.043 0 0 0 0 0.145 0 0 0 0 0.129 0 0 0 0.10 0"/>
+      <feBlend in2="SourceGraphic"/>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="420" rx="34" fill="url(#bg)"/>
+  <g filter="url(#shadow)">
+    <rect x="116" y="64" width="1048" height="292" rx="34" fill="url(#panel)"/>
+    <rect x="116.5" y="64.5" width="1047" height="291" rx="33.5" stroke="#D9E3DD"/>
+  </g>
+
+  <path d="M520 72C616 28 748 44 840 116C918 177 956 270 930 348" stroke="#D9E3DD" stroke-width="1.5"/>
+
+  <g transform="translate(176 132)">
+    <circle cx="24" cy="24" r="18" fill="#D9FF43"/>
+    <circle cx="42" cy="24" r="18" fill="#0B3B35"/>
+    <text x="72" y="32" fill="#0B3B35" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">TechAyo</text>
+  </g>
+
+  <text x="176" y="218" fill="#0B3B35" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="700">Platform ownership for delivery work</text>
+  <text x="176" y="258" fill="#496779" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="400">Commercial website, client portal, publishing, CRM, SEO, and operations control.</text>
+
+  <g transform="translate(176 294)">
+    <rect width="134" height="34" rx="17" fill="#FFFFFF" stroke="#DDE6E0"/>
+    <text x="67" y="23" text-anchor="middle" fill="#0B3B35" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">techayo.co.uk</text>
+    <rect x="150" width="92" height="34" rx="17" fill="#D9FF43"/>
+    <text x="196" y="23" text-anchor="middle" fill="#0B3B35" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">OPS ready</text>
+  </g>
+
+  <g transform="translate(806 112)">
+    <rect width="246" height="196" rx="26" fill="#FFFFFF" fill-opacity="0.88" stroke="#D9E3DD"/>
+    <rect x="24" y="24" width="198" height="34" rx="14" fill="#F5F8F5" stroke="#E4ECE6"/>
+    <circle cx="44" cy="41" r="5" fill="#B9C9C1"/>
+    <circle cx="62" cy="41" r="5" fill="#D9FF43"/>
+    <circle cx="80" cy="41" r="5" fill="#0B3B35"/>
+
+    <text x="24" y="92" fill="#0B3B35" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="800">WORKFLOW HEALTH</text>
+    <rect x="24" y="108" width="198" height="11" rx="6" fill="#DDE6E0"/>
+    <rect x="24" y="108" width="144" height="11" rx="6" fill="#0B3B35"/>
+
+    <text x="24" y="154" fill="#0B3B35" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="700">Ops workspace</text>
+    <text x="24" y="178" fill="#607485" font-family="Segoe UI, Arial, sans-serif" font-size="14">Publish, measure, secure, release.</text>
+  </g>
+</svg>
+
