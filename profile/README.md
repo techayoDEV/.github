@@ -36,14 +36,8 @@ TechAyo is maintained as one controlled platform with three connected surfaces:
 
 ## Brand
 
-<p>
-  <img src="assets/techayo-overview-icon.svg" alt="TechAyo icon" width="72" align="left">
-  TechAyo uses a quiet operations-first visual system: deep green, signal lime, clear typography, and restrained product surfaces. The GitHub profile is intentionally compact so maintainers can understand the platform shape quickly.
-</p>
-
-<br clear="left">
+TechAyo uses a quiet operations-first visual system: deep green, signal lime, clear typography, and restrained product surfaces. The GitHub profile is intentionally compact so maintainers can understand the platform shape quickly.
 
 ---
 
 Proprietary platform owned and maintained by TechAyo Limited.
-
