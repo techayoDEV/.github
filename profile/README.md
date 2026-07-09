@@ -3,8 +3,14 @@
 </p>
 
 <p align="center">
+  <img src="assets/techayo-overview-logo.svg" alt="TechAyo overview logo" width="360"><br>
   <strong>Commercial website, client portal, and operations workspace for TechAyo.</strong><br>
   A focused platform for publishing, CRM workflows, client delivery, SEO operations, and controlled releases.
+</p>
+
+<p align="center">
+  <img src="assets/techayo-overview-mark.svg" alt="TechAyo overview mark" width="26" height="26">
+  <strong>techayoDEV</strong>
 </p>
 
 <p align="center">

@@ -25,8 +25,10 @@
   <path d="M520 72C616 28 748 44 840 116C918 177 956 270 930 348" stroke="#D9E3DD" stroke-width="1.5"/>
 
   <g transform="translate(176 132)">
-    <circle cx="24" cy="24" r="18" fill="#D9FF43"/>
-    <circle cx="42" cy="24" r="18" fill="#0B3B35"/>
+    <g>
+      <path d="M3.52284 6.36735C-1.18425 11.7888 -0.605111 19.9994 4.81623 24.7064C10.2376 29.4135 18.4482 28.8344 23.1552 23.413C27.8623 17.9916 27.2833 9.78105 21.8619 5.07396C16.4405 0.366943 8.22992 0.945938 3.52284 6.36735Z" fill="#D9FF43"/>
+      <path d="M24.6751 1.19349C24.2774 1.27996 24.1775 1.78681 24.4848 2.05364C31.5742 8.20893 32.3315 18.946 26.1762 26.0354C25.9093 26.3427 26.0794 26.8305 26.4853 26.8603C30.4346 27.1501 34.4669 25.6383 37.2627 22.4181C41.9698 16.9968 41.3908 8.78616 35.9693 4.07908C32.7492 1.2832 28.5447 0.352249 24.6751 1.19349Z" fill="#0B3B35"/>
+    </g>
     <text x="72" y="32" fill="#0B3B35" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">TechAyo</text>
   </g>
 
@@ -38,6 +40,12 @@
     <text x="67" y="23" text-anchor="middle" fill="#0B3B35" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">techayo.co.uk</text>
     <rect x="150" width="92" height="34" rx="17" fill="#D9FF43"/>
     <text x="196" y="23" text-anchor="middle" fill="#0B3B35" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">OPS ready</text>
+    <rect x="258" width="154" height="34" rx="17" fill="#0B3B35"/>
+    <g transform="translate(276 2.5) scale(0.82143)">
+      <path d="M3.52284 6.36735C-1.18425 11.7888 -0.605111 19.9994 4.81623 24.7064C10.2376 29.4135 18.4482 28.8344 23.1552 23.413C27.8623 17.9916 27.2833 9.78105 21.8619 5.07396C16.4405 0.366943 8.22992 0.945938 3.52284 6.36735Z" fill="#D9FF43"/>
+      <path d="M24.6751 1.19349C24.2774 1.27996 24.1775 1.78681 24.4848 2.05364C31.5742 8.20893 32.3315 18.946 26.1762 26.0354C25.9093 26.3427 26.0794 26.8305 26.4853 26.8603C30.4346 27.1501 34.4669 25.6383 37.2627 22.4181C41.9698 16.9968 41.3908 8.78616 35.9693 4.07908C32.7492 1.2832 28.5447 0.352249 24.6751 1.19349Z" fill="#F7FFF6"/>
+    </g>
+    <text x="348" y="23" text-anchor="middle" fill="#F7FFF6" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">techayoDEV</text>
   </g>
 
   <g transform="translate(806 112)">
@@ -55,4 +63,3 @@
     <text x="24" y="178" fill="#607485" font-family="Segoe UI, Arial, sans-serif" font-size="14">Publish, measure, secure, release.</text>
   </g>
 </svg>
-
