@@ -4,8 +4,8 @@
 
 <p align="center">
   <img src="assets/techayo-overview-logo.svg" alt="TechAyo overview logo" width="360"><br>
-  <strong>Commercial website, client portal, and operations workspace for TechAyo.</strong><br>
-  A focused platform for publishing, CRM workflows, client delivery, SEO operations, and controlled releases.
+  <strong>AI-native digital product studio, applied AI lab, and modern support platform for TechAyo.</strong><br>
+  We build web products, AI workflows, operational systems, and community technology services that help businesses grow with more clarity and less drag.
 </p>
 
 <p align="center">
@@ -18,21 +18,22 @@
   <a href="https://github.com/techayoDEV/techayo"><img src="https://img.shields.io/badge/platform-techayo-D9FF43?style=flat-square&labelColor=0B3B35&color=D9FF43" alt="TechAyo platform repository"></a>
 </p>
 
-## What TechAyo Maintains
+## What TechAyo Builds
 
-TechAyo is maintained as one controlled platform with three connected surfaces:
+TechAyo combines four connected capability areas:
 
-- `Public website`: service pages, insights, quote capture, contact flow, and community support entry points.
-- `Client portal`: secure access for project visibility, approvals, files, communication, billing flows, and account-level reporting.
-- `Ops workspace`: publishing, CRM, SEO, moderation, analytics, diagnostics, backups, and release-readiness controls.
+- `Digital products and web businesses`: commercial websites, growth funnels, portals, custom platforms, and launch-ready digital services.
+- `Applied AI and new technology`: AI R&D, copilots, workflow automation, prototypes, and practical enablement for teams adopting newer tools.
+- `Modern IT support and operations`: monitoring, support patterns, security hygiene, delivery systems, and operational tooling for growing teams.
+- `Community technology support`: structured digital guidance and safeguarding-aware service access for vulnerable residents and public-facing programmes.
 
-## Engineering Focus
+## How TechAyo Works
 
-- Clear ownership across public, client, and operations surfaces.
-- Lightweight PHP runtime with structured operational tooling.
-- Route-scoped assets, measured delivery, and maintainable frontend boundaries.
-- Practical security controls, health checks, backups, and deployment discipline.
-- Documentation that keeps product intent, operations, and maintenance aligned.
+- One team across strategy, design, engineering, AI, support, and operations.
+- AI-native thinking grounded in real workflows, not hype.
+- Commercial delivery shaped around measurable outcomes, maintainability, and ownership.
+- Clear boundaries between paid business services, platform operations, and community support programmes.
+- Documentation and systems that keep product intent, operations, and maintenance aligned.
 
 ## Primary Repository
 
@@ -42,7 +43,7 @@ TechAyo is maintained as one controlled platform with three connected surfaces:
 
 ## Brand
 
-TechAyo uses a quiet operations-first visual system: deep green, signal lime, clear typography, and restrained product surfaces. The GitHub profile is intentionally compact so maintainers can understand the platform shape quickly.
+TechAyo uses a calm AI-era visual system: deep green, signal lime, clear typography, and restrained product surfaces. The GitHub profile is intentionally compact so visitors can understand the company shape quickly.
 
 ---
 
