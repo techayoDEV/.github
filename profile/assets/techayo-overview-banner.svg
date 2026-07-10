@@ -1,75 +1,33 @@
-<svg width="1280" height="560" viewBox="0 0 1280 560" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="TechAyo digital products, AI systems and modern support">
+<svg width="1280" height="640" viewBox="0 0 1280 640" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="TechAyo digital products, applied AI and modern technology support">
   <defs>
-    <linearGradient id="bg" x1="640" y1="0" x2="640" y2="560" gradientUnits="userSpaceOnUse">
+    <linearGradient id="bg" x1="640" y1="0" x2="640" y2="640" gradientUnits="userSpaceOnUse">
       <stop stop-color="#F7FAF7"/>
-      <stop offset="1" stop-color="#E7EEE9"/>
+      <stop offset="1" stop-color="#EAF1EC"/>
     </linearGradient>
-    <linearGradient id="panel" x1="132" y1="82" x2="1148" y2="470" gradientUnits="userSpaceOnUse">
+    <linearGradient id="panel" x1="132" y1="86" x2="1148" y2="554" gradientUnits="userSpaceOnUse">
       <stop stop-color="#FFFFFF"/>
       <stop offset="1" stop-color="#F4F8F5"/>
     </linearGradient>
-    <filter id="shadow" x="96" y="58" width="1088" height="436" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-      <feOffset dy="10"/>
-      <feGaussianBlur stdDeviation="10"/>
-      <feColorMatrix type="matrix" values="0 0 0 0 0.0431373 0 0 0 0 0.172549 0 0 0 0 0.14902 0 0 0 0.08 0"/>
-      <feBlend in="SourceGraphic" in2="BackgroundImageFix" mode="normal"/>
-    </filter>
   </defs>
 
-  <rect width="1280" height="560" rx="36" fill="url(#bg)"/>
+  <rect width="1280" height="640" rx="36" fill="url(#bg)"/>
+  <rect x="52" y="56" width="1176" height="528" rx="34" fill="#F2F7F3" stroke="#E2EBE5" stroke-width="2"/>
+  <rect x="126" y="94" width="1028" height="452" rx="32" fill="url(#panel)" stroke="#D9E3DD" stroke-width="2"/>
 
-  <g filter="url(#shadow)">
-    <rect x="116" y="78" width="1048" height="404" rx="36" fill="url(#panel)"/>
-    <rect x="116.75" y="78.75" width="1046.5" height="402.5" rx="35.25" stroke="#D9E3DD" stroke-width="1.5"/>
-  </g>
+  <path d="M500 118C618 76 767 88 878 157C944 198 991 261 1016 336" stroke="#D4DED8" stroke-width="2" fill="none"/>
+  <path d="M266 486H1014" stroke="#DDE7E1" stroke-width="2" stroke-linecap="round"/>
 
-  <path d="M508 90C614 44 748 52 852 120C931 172 979 251 984 346" stroke="#D8E2DC" stroke-width="1.6" fill="none"/>
-
-  <rect x="158" y="118" width="958" height="324" rx="32" fill="#F7FAF7" fill-opacity="0.78" stroke="#E6EDE8"/>
-
-  <g transform="translate(196 178)">
-    <g transform="scale(1.18)">
+  <g transform="translate(204 164)">
+    <g transform="scale(1.28)">
       <path d="M3.52284 6.36735C-1.18425 11.7888 -0.605111 19.9994 4.81623 24.7064C10.2376 29.4135 18.4482 28.8344 23.1552 23.413C27.8623 17.9916 27.2833 9.78105 21.8619 5.07396C16.4405 0.366943 8.22992 0.945938 3.52284 6.36735Z" fill="#D9FF43"/>
       <path d="M24.6751 1.19349C24.2774 1.27996 24.1775 1.78681 24.4848 2.05364C31.5742 8.20893 32.3315 18.946 26.1762 26.0354C25.9093 26.3427 26.0794 26.8305 26.4853 26.8603C30.4346 27.1501 34.4669 25.6383 37.2627 22.4181C41.9698 16.9968 41.3908 8.78616 35.9693 4.07908C32.7492 1.2832 28.5447 0.352249 24.6751 1.19349Z" fill="#0B3B35"/>
     </g>
-    <text x="88" y="35" fill="#0B3B35" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700">TechAyo</text>
+    <text x="96" y="36" fill="#0B3B35" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="700">TechAyo</text>
   </g>
 
-  <text x="196" y="286" fill="#103D37" font-family="Segoe UI, Arial, sans-serif" font-size="40" font-weight="700" letter-spacing="-0.02em">Digital products, AI systems,</text>
-  <text x="196" y="336" fill="#103D37" font-family="Segoe UI, Arial, sans-serif" font-size="40" font-weight="700" letter-spacing="-0.02em">modern support</text>
-  <text x="196" y="388" fill="#55707B" font-family="Satoshi, Segoe UI, sans-serif" font-size="22" font-weight="500">Web platforms, AI R&amp;D, IT support,</text>
-  <text x="196" y="420" fill="#55707B" font-family="Satoshi, Segoe UI, sans-serif" font-size="22" font-weight="500">community technology services</text>
+  <text x="204" y="300" fill="#103D37" font-family="Segoe UI, Arial, sans-serif" font-size="58" font-weight="700" letter-spacing="-0.03em">Digital products, applied AI,</text>
+  <text x="204" y="370" fill="#103D37" font-family="Segoe UI, Arial, sans-serif" font-size="58" font-weight="700" letter-spacing="-0.03em">and modern technology support.</text>
 
-  <g transform="translate(196 458)">
-    <rect width="166" height="42" rx="21" fill="#FFFFFF" stroke="#DDE6E0" stroke-width="1.5"/>
-    <text x="83" y="27" text-anchor="middle" fill="#0B3B35" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">techayo.co.uk</text>
-
-    <rect x="180" width="122" height="42" rx="21" fill="#D9FF43"/>
-    <text x="241" y="27" text-anchor="middle" fill="#0B3B35" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="800">AI-native</text>
-
-    <rect x="316" y="-4" width="206" height="50" rx="25" fill="#0B3B35"/>
-    <g transform="translate(338 8) scale(0.9)">
-      <path d="M3.52284 6.36735C-1.18425 11.7888 -0.605111 19.9994 4.81623 24.7064C10.2376 29.4135 18.4482 28.8344 23.1552 23.413C27.8623 17.9916 27.2833 9.78105 21.8619 5.07396C16.4405 0.366943 8.22992 0.945938 3.52284 6.36735Z" fill="#D9FF43"/>
-      <path d="M24.6751 1.19349C24.2774 1.27996 24.1775 1.78681 24.4848 2.05364C31.5742 8.20893 32.3315 18.946 26.1762 26.0354C25.9093 26.3427 26.0794 26.8305 26.4853 26.8603C30.4346 27.1501 34.4669 25.6383 37.2627 22.4181C41.9698 16.9968 41.3908 8.78616 35.9693 4.07908C32.7492 1.2832 28.5447 0.352249 24.6751 1.19349Z" fill="#F7FFF6"/>
-    </g>
-    <text x="431" y="28" text-anchor="middle" fill="#F7FFF6" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="800">techayoDEV</text>
-  </g>
-
-  <g transform="translate(820 158)">
-    <rect width="258" height="252" rx="28" fill="#FFFFFF" stroke="#D9E3DD" stroke-width="1.5"/>
-    <rect x="22" y="22" width="214" height="38" rx="15" fill="#F6FAF7" stroke="#E4ECE6"/>
-    <circle cx="42" cy="41" r="5" fill="#C1CDC7"/>
-    <circle cx="58" cy="41" r="5" fill="#D9FF43"/>
-    <circle cx="74" cy="41" r="5" fill="#0B3B35"/>
-
-    <text x="24" y="112" fill="#0B3B35" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="800">WORKFLOW HEALTH</text>
-    <rect x="24" y="128" width="150" height="12" rx="6" fill="#DCE5DF"/>
-    <rect x="24" y="128" width="114" height="12" rx="6" fill="#0B3B35"/>
-    <rect x="24" y="152" width="92" height="22" rx="11" fill="#D9FF43"/>
-    <text x="70" y="168" text-anchor="middle" fill="#0B3B35" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="800">Healthy</text>
-
-    <text x="24" y="214" fill="#0B3B35" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="700" letter-spacing="-0.02em">Delivery ops</text>
-    <text x="24" y="246" fill="#5B707B" font-family="Satoshi, Segoe UI, sans-serif" font-size="19" font-weight="500">Automate. Support.</text>
-    <text x="24" y="274" fill="#5B707B" font-family="Satoshi, Segoe UI, sans-serif" font-size="19" font-weight="500">Secure. Release.</text>
-  </g>
+  <text x="204" y="438" fill="#59727C" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="500">Web platforms, intelligent workflows, operational tooling,</text>
+  <text x="204" y="474" fill="#59727C" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="500">and community-focused technology services.</text>
 </svg>

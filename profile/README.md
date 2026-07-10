@@ -3,14 +3,8 @@
 </p>
 
 <p align="center">
-  <img src="assets/techayo-overview-logo.svg" alt="TechAyo overview logo" width="360"><br>
-  <strong>AI-native digital product studio, applied AI lab, and modern support platform for TechAyo.</strong><br>
-  We build web products, AI workflows, operational systems, and community technology services, while helping teams adopt AI and newer tools with more clarity and less drag.
-</p>
-
-<p align="center">
-  <img src="assets/techayo-overview-mark.svg" alt="TechAyo overview mark" width="26" height="26">
-  <strong>techayoDEV</strong>
+  <strong>Digital products, applied AI systems, and modern technology support.</strong><br>
+  TechAyo combines product delivery, AI R&amp;D, operational tooling, IT support, and community-focused technology services into one modern company model.
 </p>
 
 <p align="center">
