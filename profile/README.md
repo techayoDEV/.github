@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/techayo-overview-banner.svg" alt="TechAyo GitHub organization overview" width="100%">
+  <img src="assets/techayo-overview-banner.svg" alt="TechAyo GitHub organisation overview" width="100%">
 </p>
 
 <p align="center">
