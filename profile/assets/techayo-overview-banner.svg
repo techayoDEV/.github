@@ -16,15 +16,14 @@
   <circle cx="994" cy="530" r="134" fill="#D2E0DB" fill-opacity="0.28"/>
 
   <rect x="76" y="66" width="1128" height="486" rx="34" fill="url(#panel)" stroke="#D8E4DE" stroke-width="2"/>
-  <rect x="112" y="100" width="1056" height="58" rx="22" fill="#FFFFFF" stroke="#E3ECE7" stroke-width="2"/>
   <path d="M510 96C692 62 878 116 992 226C1048 282 1088 348 1104 414" stroke="#D0DDD6" stroke-width="2" fill="none"/>
 
-  <g transform="translate(154 116)">
-    <g transform="scale(1.18)">
+  <g transform="translate(154 112)">
+    <g transform="scale(1.16)">
       <path d="M3.52284 6.36735C-1.18425 11.7888 -0.605111 19.9994 4.81623 24.7064C10.2376 29.4135 18.4482 28.8344 23.1552 23.413C27.8623 17.9916 27.2833 9.78105 21.8619 5.07396C16.4405 0.366943 8.22992 0.945938 3.52284 6.36735Z" fill="#D9FF43"/>
       <path d="M24.6751 1.19349C24.2774 1.27996 24.1775 1.78681 24.4848 2.05364C31.5742 8.20893 32.3315 18.946 26.1762 26.0354C25.9093 26.3427 26.0794 26.8305 26.4853 26.8603C30.4346 27.1501 34.4669 25.6383 37.2627 22.4181C41.9698 16.9968 41.3908 8.78616 35.9693 4.07908C32.7492 1.2832 28.5447 0.352249 24.6751 1.19349Z" fill="#0B3B35"/>
     </g>
-    <text x="92" y="34" fill="#0B3B35" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="700">TechAyo</text>
+    <text x="58" y="31" fill="#0B3B35" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="700">TechAyo</text>
   </g>
 
   <text x="154" y="276" fill="#103D37" font-family="Segoe UI, Arial, sans-serif" font-size="44" font-weight="700" letter-spacing="-0.035em">Digital products, applied AI,</text>
