@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://techayo.co.uk"><img src="https://img.shields.io/badge/website-techayo.co.uk-0B3B35?style=flat-square" alt="TechAyo website"></a>
   <a href="https://github.com/techayoDEV/techayo"><img src="https://img.shields.io/badge/repo-techayo%20website-D9FF43?style=flat-square&labelColor=0B3B35&color=D9FF43" alt="TechAyo website repository"></a>
-  <a href="https://github.com/techayoDEV/fnlla-php"><img src="https://img.shields.io/badge/framework-FNLLA%20PHP-0B3B35?style=flat-square&labelColor=D9FF43&color=0B3B35" alt="FNLLA PHP repository"></a>
+  <a href="https://github.com/techayoDEV/fnlla"><img src="https://img.shields.io/badge/framework-FNLLA-0B3B35?style=flat-square&labelColor=D9FF43&color=0B3B35" alt="FNLLA repository"></a>
 </p>
 
 ## What TechAyo Builds
@@ -24,9 +24,9 @@ TechAyo combines four connected capability areas:
 
 ## Framework Product
 
-TechAyo also maintains `FNLLA PHP` as the public framework line inside the same ecosystem:
+TechAyo also maintains `FNLLA` as the public framework line inside the same ecosystem:
 
-- `FNLLA PHP`: the server-rendered application framework, starter export source, docs surface, and integrated UI runtime contract.
+- `FNLLA`: the server-rendered application framework, starter export source, docs surface, and integrated UI runtime contract.
 
 ## How TechAyo Works
 
@@ -41,7 +41,7 @@ TechAyo also maintains `FNLLA PHP` as the public framework line inside the same 
 | Repository | Purpose | Visibility |
 | --- | --- | --- |
 | [`techayoDEV/techayo`](https://github.com/techayoDEV/techayo) | TechAyo website, client workspace, delivery operations system, and presentation assets. | Private |
-| [`techayoDEV/fnlla-php`](https://github.com/techayoDEV/fnlla-php) | Public home of the FNLLA framework stack, including starter export logic, docs, release tooling, and the integrated UI runtime contract. | Public |
+| [`techayoDEV/fnlla`](https://github.com/techayoDEV/fnlla) | Public home of the FNLLA framework stack, including starter export logic, docs, release tooling, and the integrated UI runtime contract. | Public |
 
 ## Brand
 
