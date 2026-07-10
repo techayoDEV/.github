@@ -27,22 +27,10 @@
     <text x="92" y="34" fill="#0B3B35" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="700">TechAyo</text>
   </g>
 
-  <circle cx="1112" cy="130" r="7" fill="#D5E3DD"/>
-  <circle cx="1138" cy="130" r="7" fill="#D9FF43"/>
-  <circle cx="1164" cy="130" r="7" fill="#0B3B35"/>
-
   <text x="154" y="276" fill="#103D37" font-family="Segoe UI, Arial, sans-serif" font-size="44" font-weight="700" letter-spacing="-0.035em">Digital products, applied AI,</text>
   <text x="154" y="332" fill="#103D37" font-family="Segoe UI, Arial, sans-serif" font-size="44" font-weight="700" letter-spacing="-0.035em">and modern technology support.</text>
 
   <text x="154" y="398" fill="#5C7477" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="500">Web platforms, intelligent workflows, operational tooling,</text>
   <text x="154" y="430" fill="#5C7477" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="500">and community-focused technology services.</text>
 
-  <rect x="918" y="204" width="188" height="104" rx="26" fill="#F3F8F5" stroke="#D9E4DE" stroke-width="2"/>
-  <rect x="944" y="232" width="120" height="15" rx="7.5" fill="#DCE7E1"/>
-  <rect x="944" y="262" width="100" height="17" rx="8.5" fill="#0B3B35"/>
-  <rect x="944" y="292" width="136" height="15" rx="7.5" fill="#D9FF43"/>
-
-  <rect x="886" y="336" width="220" height="116" rx="28" fill="#FFFFFF" stroke="#D9E4DE" stroke-width="2"/>
-  <path d="M922 424C948 388 984 386 1008 362C1030 340 1054 338 1074 318" stroke="#0B3B35" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
-  <circle cx="1074" cy="318" r="12" fill="#D9FF43"/>
 </svg>
