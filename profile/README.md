@@ -5,7 +5,7 @@
 <p align="center">
   <img src="assets/techayo-overview-logo.svg" alt="TechAyo overview logo" width="360"><br>
   <strong>AI-native digital product studio, applied AI lab, and modern support platform for TechAyo.</strong><br>
-  We build web products, AI workflows, operational systems, and community technology services that help businesses grow with more clarity and less drag.
+  We build web products, AI workflows, operational systems, and community technology services, while helping teams adopt AI and newer tools with more clarity and less drag.
 </p>
 
 <p align="center">
@@ -23,13 +23,13 @@
 TechAyo combines four connected capability areas:
 
 - `Digital products and web businesses`: commercial websites, growth funnels, portals, custom platforms, and launch-ready digital services.
-- `Applied AI and new technology`: AI R&D, copilots, workflow automation, prototypes, and practical enablement for teams adopting newer tools.
+- `Applied AI and new technology`: AI R&D, copilots, workflow automation, prototypes, education, and practical enablement for teams adopting newer tools.
 - `Modern IT support and operations`: monitoring, support patterns, security hygiene, delivery systems, and operational tooling for growing teams.
 - `Community technology support`: structured digital guidance and safeguarding-aware service access for vulnerable residents and public-facing programmes.
 
 ## How TechAyo Works
 
-- One team across strategy, design, engineering, AI, support, and operations.
+- One team across strategy, design, engineering, AI, support, education, and operations.
 - AI-native thinking grounded in real workflows, not hype.
 - Commercial delivery shaped around measurable outcomes, maintainability, and ownership.
 - Clear boundaries between paid business services, platform operations, and community support programmes.
