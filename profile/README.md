@@ -4,13 +4,14 @@
 
 <p align="center">
   <strong>Digital products, applied AI systems, and modern technology support.</strong><br>
-  TechAyo combines product delivery, AI R&amp;D, operational tooling, IT support, and community-focused technology services into one modern company model.
+  TechAyo builds delivery-focused web platforms, operational systems, applied AI workflows, and modern support infrastructure for organisations that want clearer ownership and stronger execution.
 </p>
 
 <p align="center">
   <a href="https://techayo.co.uk"><img src="https://img.shields.io/badge/website-techayo.co.uk-0B3B35?style=flat-square" alt="TechAyo website"></a>
   <a href="https://github.com/techayoDEV/techayo"><img src="https://img.shields.io/badge/repo-techayo%20website-D9FF43?style=flat-square&labelColor=0B3B35&color=D9FF43" alt="TechAyo website repository"></a>
   <a href="https://github.com/techayoDEV/fnlla"><img src="https://img.shields.io/badge/framework-FNLLA-0B3B35?style=flat-square&labelColor=D9FF43&color=0B3B35" alt="FNLLA repository"></a>
+  <a href="mailto:hello@techayo.co.uk"><img src="https://img.shields.io/badge/email-hello%40techayo.co.uk-D9FF43?style=flat-square&labelColor=0B3B35&color=D9FF43" alt="TechAyo email"></a>
 </p>
 
 ## What TechAyo Builds
@@ -26,7 +27,7 @@ TechAyo combines four connected capability areas:
 
 TechAyo also maintains `FNLLA` as the public framework line inside the same ecosystem:
 
-- `FNLLA`: the server-rendered application framework, starter export source, docs surface, and integrated UI runtime contract.
+- [`techayoDEV/fnlla`](https://github.com/techayoDEV/fnlla): public home of the FNLLA framework line, including framework source, integrated web runtime, release tooling, and documentation direction.
 
 ## How TechAyo Works
 
@@ -41,7 +42,14 @@ TechAyo also maintains `FNLLA` as the public framework line inside the same ecos
 | Repository | Purpose | Visibility |
 | --- | --- | --- |
 | [`techayoDEV/techayo`](https://github.com/techayoDEV/techayo) | TechAyo website, client workspace, delivery operations system, and presentation assets. | Private |
-| [`techayoDEV/fnlla`](https://github.com/techayoDEV/fnlla) | Public home of the FNLLA framework stack, including starter export logic, docs, release tooling, and the integrated UI runtime contract. | Public |
+| [`techayoDEV/fnlla`](https://github.com/techayoDEV/fnlla) | Public home of the FNLLA framework product. | Public |
+| [`techayoDEV/.github`](https://github.com/techayoDEV/.github) | GitHub organization profile and public presentation assets. | Public |
+
+## Contact
+
+- Website: [techayo.co.uk](https://techayo.co.uk)
+- Email: [hello@techayo.co.uk](mailto:hello@techayo.co.uk)
+- Location: United Kingdom
 
 ## Brand
 
